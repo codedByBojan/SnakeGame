@@ -11,10 +11,4 @@ This project was created as part of learning Python programming through an onlin
 * Score tracking
 * Game over screen
 
-* snake-game/
-│
-├── main.py              # Main game loop
-├── snake.py             # Snake class
-├── food.py              # Food logic
-├── scoreboard.py        # Score display
-├── README.md            # Project documentation
+
